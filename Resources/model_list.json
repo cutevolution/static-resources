@@ -1,8 +1,10 @@
 {
     "models": [
-        ["Akuru"]
+        ["Akuru"],
+        ["Bai"]
     ],
     "messages": [
-        ["你好，我是Akuru"]
+        ["你好，我是Akuru"],
+        ["你好，我是白"]
     ]
 }
